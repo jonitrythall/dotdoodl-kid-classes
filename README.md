@@ -9,7 +9,7 @@
 **Presentation Format:** slide presentation with illustrations and code samples, hands on building with existing demos<br>
 **Materials Included:** agendas, teacher notes, slides, demos, [reference site]()<br> 
 **Tech Requirements:** All students should have their own [CodePen](http://codepen.io/) accounts prior to class, all computers should have [Chrome](https://www.google.com/chrome/) installed, internet access is required<br>
-**Prerequisites:** Basic HTML/CSS<br>
+**Prerequisites:** Basic HTML/CSS ([workshop here](https://github.com/jonitrythall/tutstownworkshop))<br>
 
 ## Class 1: Shifty Eyes Dot 🔵
 
