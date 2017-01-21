@@ -16,7 +16,7 @@
 * [Blog post review]()
 * [Agenda](https://docs.google.com/document/d/1rv8SkQwUP-PGetV-ByROscOrxmsI6re2dkUQq3-cZl4/edit?usp=sharing)
 * [Slides Presentation](http://slides.com/jonibologna/intro-to-css-animation-1-kids#/)
-* [HTML Slides]()
+* [HTML Slides](https://github.com/jonitrythall/dotdoodl-kid-classes/blob/master/class-one-slides.html)
 * [Teacher Notes](https://docs.google.com/document/d/1q3igOFoHnfXRRegRSzs1qnfhNhNAqFegTqsQqBSZfMA/edit?usp=sharing)
 * [Demo](http://codepen.io/jonitrythall/pen/GrWPoX/)
 
