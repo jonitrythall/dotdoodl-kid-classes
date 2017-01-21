@@ -7,6 +7,17 @@
 **Objective:** Students will leave each class with a foundational understanding of CSS `@keyframes` animation moments and movements and be excited to continue experimenting with values on their own.<br> 
 **Topics Covered:** Breif review of HTML/CSS, creating shapes with CSS, intro to `@keyframes` animations, `translate`, single animation applied to multiple elements<br>
 **Presentation Format:** slides, hands on building with existing demos<br>
-**Materials Included:** agendas, teacher notes, slides, demos, reference site 
+**Materials Included:** agendas, teacher notes, slides, demos, [reference site]()<br> 
 **Tech Requirements:** All students should have their own [CodePen](http://codepen.io/) accounts prior to class, all computers should have [Chrome](https://www.google.com/chrome/) installed, internet access is required<br>
 **Prerequisites:** Basic HTML/CSS<br>
+
+## Class 1, Shifty Eyes Dot
+
+* [Agenda]()
+* [Slides]()
+* [Teacher Notes]()
+* [Demo]()
+
+## Class 2, Bounce Dot
+*Coming soon.*
+
