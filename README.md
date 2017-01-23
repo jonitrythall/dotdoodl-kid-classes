@@ -13,7 +13,7 @@
 
 ## Class 1: Shifty Eyes Dot 🔵
 
-* [Blog post review]()
+* [Blog post review](http://jonibologna.com/css-animation-classes-for-kids-class-1/)
 * [Agenda](https://docs.google.com/document/d/1rv8SkQwUP-PGetV-ByROscOrxmsI6re2dkUQq3-cZl4/edit?usp=sharing)
 * [Slides Presentation](http://slides.com/jonibologna/intro-to-css-animation-1-kids#/)
 * [HTML Slides](https://github.com/jonitrythall/dotdoodl-kid-classes/blob/master/class-one-slides.html)
