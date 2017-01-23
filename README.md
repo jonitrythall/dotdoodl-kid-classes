@@ -19,6 +19,7 @@
 * [HTML Slides](https://github.com/jonitrythall/dotdoodl-kid-classes/blob/master/class-one-slides.html)
 * [Teacher Notes](https://docs.google.com/document/d/1q3igOFoHnfXRRegRSzs1qnfhNhNAqFegTqsQqBSZfMA/edit?usp=sharing)
 * [Demo](http://codepen.io/jonitrythall/pen/GrWPoX/)
+* [Original visuals](https://github.com/jonitrythall/dotdoodl-kid-classes/tree/master/class1-original-visuals)
 
 ## Class 2: Bounce Dot
 *Coming soon.*
