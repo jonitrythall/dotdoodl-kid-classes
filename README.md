@@ -28,4 +28,4 @@
 *Coming soon.*
 
 
-**Please reach out with any questions, [@jonitrythall]() or [info@jonibologna.com]()** 👋
+**Please reach out with any questions, [@jonitrythall](https://twitter.com/JoniTrythall) or info@jonibologna.com** 👋
