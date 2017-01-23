@@ -1,4 +1,4 @@
-# Dot Doodl
+# Dot Doodl for Kids
 **CSS Animation Classes For Kids By [Joni Bologna](https://twitter.com/JoniTrythall)** 🐷
 
 **Title:** Dot Doodl For Kids<br>
