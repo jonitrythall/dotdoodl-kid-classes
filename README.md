@@ -1,5 +1,5 @@
 # Dot Doodl for Kids
-**CSS Animation Classes For Kids By [Joni Bologna](https://twitter.com/JoniTrythall)** 🐷
+**CSS Animation Classes For Kids By [Joni Bologna](http://jonibologna.com/)** 🐷
 
 **Title:** Dot Doodl For Kids<br>
 **Grade Level:** 6-8<br>
