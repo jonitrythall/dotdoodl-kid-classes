@@ -10,6 +10,7 @@
 **Materials Included:** agendas, teacher notes, slides, demos, [reference site](http://www.dotdoodl.com/) (and [repo](https://github.com/jonitrythall/dotdoodl))<br> 
 **Tech Requirements:** All students should have their own [CodePen](http://codepen.io/) accounts prior to class, all computers should have [Chrome](https://www.google.com/chrome/) installed, internet access is required<br>
 **Prerequisites:** Basic HTML/CSS ([workshop here](https://github.com/jonitrythall/tutstownworkshop))<br>
+**Typography:** The fonts used throughout this series are [Lato](https://fonts.google.com/specimen/Lato) and [Short Stack](https://fonts.google.com/specimen/Short+Stack)
 
 ## Class 1: Shifty Eyes Dot 🔵
 
