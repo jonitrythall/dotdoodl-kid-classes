@@ -11,6 +11,7 @@
 **Tech Requirements:** All students should have their own [CodePen](http://codepen.io/) accounts prior to class, all computers should have [Chrome](https://www.google.com/chrome/) installed, internet access is required<br>
 **Prerequisites:** Basic HTML/CSS ([workshop here](https://github.com/jonitrythall/tutstownworkshop))<br>
 **Typography:** The fonts used throughout this series are [Lato](https://fonts.google.com/specimen/Lato) and [Short Stack](https://fonts.google.com/specimen/Short+Stack)
+**Sticker Design:** [Sticker PDF, 2.5 x 1.5 inches](https://github.com/jonitrythall/dotdoodl-kid-classes/blob/master/doodl-stickers.pdf)
 
 ## Class 1: Shifty Eyes Dot 🔵
 
@@ -22,8 +23,14 @@
 * [Demo](http://codepen.io/jonitrythall/pen/GrWPoX/)
 * [Original visuals](https://github.com/jonitrythall/dotdoodl-kid-classes/tree/master/class1-original-visuals)
 
-## Class 2: Bounce Dot
-*Coming soon.*
+## Class 2: Bounce Dot 🔵
+* [Blog post review](http://jonibologna.com/css-animation-classes-for-kids-class-2/)
+* [Agenda](https://docs.google.com/document/d/1MnEX15ES3zzLKcoE4lXyH_ut_bCCIyjVe8dwIOlp_yc/edit)
+* [Teacher notes](https://docs.google.com/document/d/180tCBkWLGJw-M-oEj5G1MYPcWUlvnrTwniKlntMJkQc/edit)
+* [Slides presentation](http://slides.com/jonibologna/intro-to-css-animation-2-kids#/)
+* [HTML slides](https://github.com/jonitrythall/dotdoodl-kid-classes/blob/master/class-two-slides.html)
+* [Demo](http://codepen.io/jonitrythall/pen/xggROe)
+* [Original visuals](https://github.com/jonitrythall/dotdoodl-kid-classes/tree/master/class2-original-visuals)
 
 ## Class 3: Morphing Dot
 *Coming soon.*
