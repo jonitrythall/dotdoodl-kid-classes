@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 715 220" style="enable-background:new 0 0 715 220;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#16C4BF;stroke-width:5;stroke-miterlimit:10;}
+	.st1{fill:#8000FF;}
+	.st2{opacity:0.6;fill:#8000FF;}
+	.st3{opacity:0.2;fill:#8000FF;}
+	.st4{fill:none;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'ShortStack';}
+	.st7{font-size:38px;}
+</style>
+<line class="st0" x1="153.1" y1="6.5" x2="153.1" y2="213.5"/>
+<line class="st0" x1="401.6" y1="6.5" x2="401.6" y2="213.5"/>
+<line class="st0" x1="632.3" y1="6.5" x2="632.3" y2="213.5"/>
+<circle class="st1" cx="663.4" cy="110" r="45.2"/>
+<circle class="st2" cx="426.5" cy="110" r="45.2"/>
+<circle class="st3" cx="179.5" cy="108.8" r="45.2"/>
+<rect x="657.7" y="95.4" class="st4" width="39.2" height="28.7"/>
+<text transform="matrix(1 0 0 1 657.6631 122.7811)" class="st5 st6 st7">1</text>
+<rect x="408.8" y="97.3" class="st4" width="39.2" height="28.7"/>
+<text transform="matrix(1 0 0 1 408.8381 124.6627)" class="st5 st6 st7">.6</text>
+<rect x="160.2" y="94.6" class="st4" width="39.2" height="28.7"/>
+<text transform="matrix(1 0 0 1 160.1926 122.0164)" class="st5 st6 st7">.2</text>
+<rect x="21.5" y="95.9" class="st4" width="65.1" height="54.5"/>
+<text transform="matrix(1 0 0 1 21.5456 123.2467)" class="st1 st6 st7">0</text>
+<line class="st0" x1="8.9" y1="6.5" x2="8.9" y2="213.5"/>
+</svg>
