@@ -5,7 +5,7 @@
 **Grade Level:** 6-8<br>
 **Total Time:** 1-1.5 hours each<br>
 **Objective:** Students will leave each class with a foundational understanding of CSS `@keyframes` animation moments and be excited to continue experimenting with values on their own.<br> 
-**Topics Covered:** Breif review of HTML/CSS, creating shapes with CSS, intro to `@keyframes` animations, planning motion, `translate` and movement along an axis, single animation applied to multiple elements<br>
+**Topics Covered:** Breif review of HTML/CSS, creating shapes with CSS, intro to `@keyframes` animations, planning motion, timing movements, `translate` and movement along an axis, rotation, 3D<br>
 **Presentation Format:** slide presentation with illustrations and code samples, hands on building with existing demos<br>
 **Materials Included:** agendas, teacher notes, slides, demos, [reference site](http://www.dotdoodl.com/) (and [repo](https://github.com/jonitrythall/dotdoodl))<br> 
 **Tech Requirements:** All students should have their own [CodePen](http://codepen.io/) accounts prior to class, all computers should have [Chrome](https://www.google.com/chrome/) installed, internet access is required<br>
