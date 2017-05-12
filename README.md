@@ -32,7 +32,7 @@
 * [Demo](http://codepen.io/jonitrythall/pen/xggROe)
 * [Original visuals](https://github.com/jonitrythall/dotdoodl-kid-classes/tree/master/class2-original-visuals)
 
-## Class 3: Morphing Dot
+## Class 3: 3D Dot
 *Coming soon.*
 
 
