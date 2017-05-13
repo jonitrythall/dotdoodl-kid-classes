@@ -33,7 +33,13 @@
 * [Original visuals](https://github.com/jonitrythall/dotdoodl-kid-classes/tree/master/class2-original-visuals)
 
 ## Class 3: 3D Dot
-*Coming soon.*
+* [Blog post review]()
+* [Agenda](https://docs.google.com/document/d/10pkbVW9Pqqi1eSTuB8460zTuvvVOT9uscNj5BWts6x0/edit?usp=sharing)
+* [Teacher notes](https://docs.google.com/document/d/1PiP8rgLI8XUtveCblmnX5-NIFTuJOrWbOEeqteEkg7Y/edit?usp=sharing)
+* [Slides presentation]()
+* [HTML slides]()
+* [Demo](http://codepen.io/jonitrythall/pen/dWeoBB)
+* [Original visuals]()
 
 
 **Please reach out with any questions, [@jonitrythall](https://twitter.com/JoniTrythall) or info@jonibologna.com** 👋
