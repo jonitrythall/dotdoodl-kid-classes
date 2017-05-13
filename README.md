@@ -32,7 +32,7 @@
 * [Demo](http://codepen.io/jonitrythall/pen/xggROe)
 * [Original visuals](https://github.com/jonitrythall/dotdoodl-kid-classes/tree/master/class2-original-visuals)
 
-## Class 3: 3D Dot
+## Class 3: 3D Dot 🔵
 * [Blog post review]()
 * [Agenda](https://docs.google.com/document/d/10pkbVW9Pqqi1eSTuB8460zTuvvVOT9uscNj5BWts6x0/edit?usp=sharing)
 * [Teacher notes](https://docs.google.com/document/d/1PiP8rgLI8XUtveCblmnX5-NIFTuJOrWbOEeqteEkg7Y/edit?usp=sharing)
