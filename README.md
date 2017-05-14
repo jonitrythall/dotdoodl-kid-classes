@@ -33,11 +33,11 @@
 * [Original visuals](https://github.com/jonitrythall/dotdoodl-kid-classes/tree/master/class2-original-visuals)
 
 ## Class 3: 3D Dot 🔵
-* [Blog post review]()
+* [Blog post review](http://jonibologna.com/css-animation-classes-for-kids-class3/)
 * [Agenda](https://docs.google.com/document/d/10pkbVW9Pqqi1eSTuB8460zTuvvVOT9uscNj5BWts6x0/edit?usp=sharing)
 * [Teacher notes](https://docs.google.com/document/d/1PiP8rgLI8XUtveCblmnX5-NIFTuJOrWbOEeqteEkg7Y/edit?usp=sharing)
 * [Slides presentation](http://slides.com/jonibologna/intro-to-css-animation-3#/)
-* [HTML slides]()
+* [HTML slides](https://github.com/jonitrythall/dotdoodl-kid-classes/blob/master/class-three-slides.html)
 * [Demo](http://codepen.io/jonitrythall/pen/dWeoBB)
 * [Original visuals](https://github.com/jonitrythall/dotdoodl-kid-classes/tree/master/class3-original-visuals)
 
